@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pointer{}
+
+#logo{
+  height: 40px;
+}
+
+.avatar{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  line-height: 35px;
+  text-align: center;
+  background-color: red;
+  display: inline-block;
+  color: white;
+  font-weight: 600;
+}
+
+.mt-150{
+  margin-top: 150px;
+}
+
+.ms-container{
+  width: 60%;
+  margin: 0 auto;
+}
